@@ -1,6 +1,8 @@
+# Menampilkan ASCII art dengan figlet
 echo ""
 figlet -c "Halo, Wisnu!" | lolcat
 
+# Menampilkan spesifikasi server
 echo "========================================" | lolcat
 echo "Spesifikasi Server:"
 echo "========================================" | lolcat
